@@ -6,7 +6,7 @@ https://github.com/Mehrsa-Mohajeri-Developer/Animation_Trick18/assets/145048780/
  
 - 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Animation_Trick18/)
   
-- 👩🏻‍💻 Developed by Mehrsa Mohajeri
+- 👩🏻‍💻 Developed by Mehrsa Mohajeri 
 
 - 📆 Created: 2023-10-8
 
